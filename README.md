@@ -1,3 +1,7 @@
+# Typescript Boilerplate 갖다 씀
+
+일단 뭐라도 만든다.
+
 # ES6 Boilerplate
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/VD39/es6-webpack-boilerplate/blob/master/LICENSE, 'License')
